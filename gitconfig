@@ -4,7 +4,6 @@
 
 [github]
   user = starkermann
-  token = b01c123ff2b9b29db4cb8b1149084db355f5e1cf
 
 [branch "master"]
   remote = origin
